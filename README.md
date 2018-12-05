@@ -2,12 +2,12 @@
 [赛题链接](https://www.datafountain.cn/competitions/287/details/rule) 
 
 
-## 模型1
+## 模型一
       代码运行方式：extract_feature.py -> xgb.py,  
 
       只需在相应的地方更改文件路径即可运行
 
-## 模型2
+## 模型二
       model2-cy.py  
       直接运行即可  
   
