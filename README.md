@@ -1,8 +1,8 @@
 
 
 ## 模型1
+代码运行方式：extract_feature.py -> xgb.py,  
 
-代码运行方式：extract_feature.py -> xgb.py,
 只需在相应的地方更改文件路径即可运行
 
 ## 模型2
